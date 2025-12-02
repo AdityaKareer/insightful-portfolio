@@ -12,13 +12,13 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Your Name | Data Analyst & Strategy Specialist</title>
+        <title>Srujana Makarande | Data Analyst & Strategy Specialist</title>
         <meta 
           name="description" 
-          content="Detail-oriented Data Analyst with expertise in strategy research, scenario modeling, and data-driven insights. View portfolio and professional experience." 
+          content="Detail-oriented Data Analyst based in Texas with expertise in strategy research, scenario modeling, and transforming complex data into actionable insights." 
         />
-        <meta name="keywords" content="Data Analyst, Business Intelligence, Python, SQL, Power BI, Tableau, Strategy Analysis" />
-        <link rel="canonical" href="https://yourportfolio.com" />
+        <meta name="keywords" content="Srujana Makarande, Data Analyst, Business Intelligence, Python, SQL, Power BI, Tableau, Strategy Analysis, Texas" />
+        <link rel="canonical" href="https://srujanamakarande.com" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
